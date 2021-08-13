@@ -458,7 +458,7 @@ gouxuan 5
 gua 2
 guajian 8
 guan 6
-guanbi 35
+guanbi 36
 guandiao 1
 guang 2 1
 guangbo 3
