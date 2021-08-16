@@ -74,7 +74,7 @@ bing 42
 bingqie 12
 biran 6
 biru 2
-bitian 13
+bitian 14
 bixian 1
 bixu 27
 biyao 1
@@ -370,7 +370,7 @@ fasheng 6
 fashi 3
 fasong 21
 faxian 5
-fei 29
+fei 30
 feichang 2
 feidao 1
 fen 28 7
