@@ -220,7 +220,7 @@ cunzai 15
 cuowu 15
 cuowuma 7
 d 653
-da 13 11 1 1
+da 14 11 1 1
 dabao 22
 dabian 1
 daduo 2
@@ -497,7 +497,7 @@ han 1
 hang 12
 hanshu 10
 hanyi 1
-hao 18 10
+hao 18 11
 haochu 5
 haode 1
 haomiao 7
@@ -701,7 +701,7 @@ kaojin 1
 kaolv 23
 kaosheng 2
 kaoshi 3
-ke 31 8
+ke 32 10
 kedu 2
 keduxing 1
 ken 2
@@ -940,7 +940,7 @@ pinyin 1
 pipei 4
 pu 1
 puliang 2
-putong 17
+putong 18
 qi 9 4 1 1 1
 qia 1
 qian 17 2 1
@@ -963,7 +963,7 @@ qiege 2
 qiehuan 27
 qilai 4
 qin 1
-qing 41 6
+qing 41 7
 qingchu 1 1
 qingjie 1
 qingkan 4
@@ -996,7 +996,7 @@ quanxian 1
 quanzhen 1
 qubie 1
 quchu 3
-qudao 2
+qudao 3
 que 3 2
 quebao 5
 queding 6
@@ -1475,7 +1475,7 @@ yong 54 1
 yongbu 1
 yongdao 1
 yongfa 4
-yonghu 69
+yonghu 70
 yongqi 1
 yongtu 1
 yongyu 37
