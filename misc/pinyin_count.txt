@@ -824,7 +824,7 @@ meitian 1
 meiyou 52
 meizhong 1
 meizhou 2
-mi 35 2
+mi 36 2
 mian 1
 mianban 3
 mianfei 2
@@ -1475,7 +1475,7 @@ yong 54 1
 yongbu 1
 yongdao 1
 yongfa 4
-yonghu 70
+yonghu 71
 yongqi 1
 yongtu 1
 yongyu 37
