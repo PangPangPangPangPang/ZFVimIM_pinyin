@@ -438,7 +438,7 @@ gengyou 1
 genju 29
 gequ 51
 geren 2
-geshi 16
+geshi 17
 geshou 2
 geshu 12
 gezhong 8
@@ -1208,7 +1208,7 @@ tishi 19
 tishikuang 2
 tixian 1
 tiyan 8
-tong 9 1 1
+tong 10 1 1
 tongbu 3
 tongchang 10
 tongcheng 1
