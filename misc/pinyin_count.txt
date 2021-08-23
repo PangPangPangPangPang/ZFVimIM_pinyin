@@ -189,6 +189,7 @@ chuangguan 2
 chuangjian 10
 chuangkou 5
 chuangxin 4
+chuanru 1
 chufa 1
 chufaqi 52
 chulai 1
@@ -219,7 +220,7 @@ cunfang 3
 cunzai 15
 cuowu 15
 cuowuma 7
-d 655
+d 656
 da 14 11 1 1
 dabao 22
 dabian 1
@@ -1085,7 +1086,7 @@ shengyu 5
 shenhe 1
 shenti 7
 shezhi 34
-shi 176 39 2 2 1
+shi 177 39 2 2 1
 shibai 24
 shichang 8
 shifou 70
@@ -1654,7 +1655,7 @@ zi 30 3 2 2
 zidai 1
 zidingyi 2
 zidong 60
-ziduan 26
+ziduan 27
 zifu 1
 zifuchuan 11
 ziji 10
