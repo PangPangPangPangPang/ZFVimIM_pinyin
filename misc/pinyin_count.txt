@@ -1055,7 +1055,7 @@ shangchuan 28
 shangci 5
 shangdilei 1
 shangji 2
-shangjia 40 3
+shangjia 41 3
 shangshu 4
 shangwang 4
 shangwei 2
