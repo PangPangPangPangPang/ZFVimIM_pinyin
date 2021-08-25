@@ -5598,7 +5598,7 @@ yinjin 引进
 yinjiu 饮酒
 yinliang 音量
 yinpin 音频
-yinqi 因其 引起
+yinqi 引起 因其
 yinqing 引擎
 yinru 引入
 yinshi 隐式 饮食
