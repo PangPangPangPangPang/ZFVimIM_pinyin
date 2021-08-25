@@ -46,7 +46,7 @@ bengkui 2
 benshen 6
 bi 14 8 2 1
 bian 4 1 1
-biangeng 1
+biangeng 2
 bianhao 4
 bianhua 9
 bianji 2
@@ -408,7 +408,7 @@ fuza 1
 fuze 2
 fuzhi 5
 ga 4
-gai 43 1
+gai 45 1
 gaibian 1
 gaidong 1
 gaiwei 5
@@ -450,7 +450,7 @@ gongbo 2
 gongcheng 1
 gonggongzuo 1
 gongju 16
-gongneng 6
+gongneng 8
 gongshi 3 2
 gongxiang 1
 gongzhonghao 1
@@ -918,7 +918,7 @@ pei 1
 peihe 2
 peijian 3
 peishi 2
-peizhi 90
+peizhi 92
 pen 1
 pi 4
 pian 1
@@ -964,7 +964,7 @@ qianyi 1
 qianzhui 1
 qianzou 1
 qidong 30
-qie 14
+qie 15
 qiege 2
 qiehuan 27
 qijian 2
@@ -1002,7 +1002,7 @@ quanping 3
 quanxian 1
 quanzhen 1
 qubie 1
-quchu 4
+quchu 5
 qudao 3
 que 3 2
 quebao 5
@@ -1058,7 +1058,7 @@ seng 1
 sha 3
 shan 3 1
 shanchu 25
-shang 35
+shang 36
 shangbanshen 1
 shangbao 17
 shangchuan 28
@@ -1297,7 +1297,7 @@ wojuede 1
 wom 1
 woshi 2
 woyao 1
-wu 18 2 1
+wu 20 2 1
 wubi 1
 wudao 8
 wufa 22
@@ -1320,7 +1320,7 @@ xianchang 1
 xiang 7 5 2 1 1
 xiangdui 14
 xiangduiying 1
-xiangguan 26
+xiangguan 27
 xiangjia 1
 xiangmu 14
 xiangsi 2
@@ -1425,7 +1425,7 @@ yewu 34
 yewufang 2
 yewuming 2
 yeyou 1
-yi 32 11 9 4 3 1 1 1
+yi 33 11 9 4 3 1 1 1
 yibian 11
 yibu 10 2
 yichang 8 2 2
@@ -1445,7 +1445,7 @@ yilai 2
 yilaiyu 4
 yiliu 2
 yilou 1
-yin 64 3 1
+yin 64 3 2
 yincang 10
 yinci 10
 yindao 2
@@ -1486,7 +1486,7 @@ yizhi 12 3 2 1
 yizhong 3
 yizu 3
 yo 3
-yong 55 1
+yong 57 1
 yongbu 1
 yongdao 1
 yongfa 4
@@ -1541,7 +1541,7 @@ yule 1
 yuleping 4
 yuliu 4
 yuming 3
-yun 50
+yun 51
 yunduan 9
 yunpan 2
 yunxing 13
