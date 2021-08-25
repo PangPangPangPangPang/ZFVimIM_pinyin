@@ -56,7 +56,7 @@ bianma 10
 bianyi 10
 bianyiqi 2
 bianyu 2
-biao 8 6
+biao 9 6
 biaoji 10
 biaoqing 9
 biaoshi 39
