@@ -566,7 +566,7 @@ huo 83
 huode 11
 huodong 16
 huojiang 1
-huoqu 49
+huoqu 50
 huozhe 6
 huxiang 2
 ji 16 11 1 1 1
@@ -770,7 +770,7 @@ lianxian 1
 lianxu 1
 liaojie 1
 lie 11
-liebiao 55
+liebiao 56
 lieju 1
 liji 2
 lijie 1
@@ -1065,7 +1065,7 @@ shangchuan 28
 shangci 5
 shangdilei 1
 shangji 2
-shangjia 41 3
+shangjia 42 3
 shangshu 4
 shangwang 4
 shangwei 2
@@ -1425,7 +1425,7 @@ yewu 34
 yewufang 2
 yewuming 2
 yeyou 1
-yi 33 11 9 4 3 1 1 1
+yi 34 11 9 4 3 1 1 1
 yibian 11
 yibu 10 2
 yichang 8 2 2
