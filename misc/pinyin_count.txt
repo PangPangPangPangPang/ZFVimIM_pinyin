@@ -138,7 +138,7 @@ caozuo 16
 ce 7 1 1
 ceng 4
 cengjing 2
-ceshi 120
+ceshi 121
 cha 19 6 1
 chabuduo 5
 chai 3 2
@@ -259,6 +259,7 @@ daxiao 1
 dayin 1
 dayu 1
 dayue 2
+dazi 1
 de 11 5
 dechu 1
 dedao 9
@@ -615,7 +616,7 @@ jiding 11
 jidinghe 76
 jie 11 1
 jiedian 13
-jiegou 13
+jiegou 15
 jieguo 6
 jiehe 1
 jiejin 1
@@ -876,7 +877,7 @@ nandu 1
 nanyi 2
 natian 4
 naxie 3 1
-ne 6
+ne 7
 nei 15
 neibu 10
 neicun 3
@@ -1134,7 +1135,7 @@ shuai 1
 shuangji 2
 shuchu 7
 shui 2
-shuju 16
+shuju 18
 shujuku 10
 shuliang 1
 shunxu 4
@@ -1298,6 +1299,7 @@ wojuede 1
 wom 1
 woshi 2
 woyao 1
+woye 1
 wu 20 2 1
 wubi 1
 wudao 8
@@ -1479,7 +1481,7 @@ yishigan 3
 yishou 6
 yitian 3
 yiwei 1
-yixia 49 11
+yixia 50 12
 yixie 15
 yiyou 3
 yizhang 1
@@ -1487,7 +1489,7 @@ yizhi 12 3 2 1
 yizhong 3
 yizu 3
 yo 3
-yong 57 1
+yong 58 1
 yongbu 1
 yongdao 1
 yongfa 4
