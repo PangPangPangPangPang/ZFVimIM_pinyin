@@ -870,13 +870,13 @@ muqian 23
 n 13
 na 5
 nage 12
-name 1
+name 2
 nan 29 8 2
 nandu 1
 nanyi 2
 natian 4
 naxie 3 1
-ne 4
+ne 5
 nei 15
 neibu 10
 neicun 3
@@ -1095,16 +1095,17 @@ shengxiao 4
 shengyin 2
 shengyu 5
 shenhe 1
+shenme 1
 shenti 7
 shezhi 34
-shi 180 40 2 2 1
+shi 180 41 2 2 1
 shibai 24
 shichang 8
 shifou 72
 shih 8
 shihou 3
 shiji 10
-shijian 63 41
+shijian 63 42
 shijianchuo 3
 shijiao 1
 shijishang 1
