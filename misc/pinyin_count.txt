@@ -259,7 +259,7 @@ daxiao 1
 dayin 1
 dayu 1
 dayue 2
-de 10 5
+de 11 5
 dechu 1
 dedao 9
 defen 1
@@ -435,7 +435,7 @@ gen 4
 geng 2
 gengduo 1
 genghao 7
-gengxin 43
+gengxin 44
 gengyou 1
 genju 29
 gequ 51
@@ -876,7 +876,7 @@ nandu 1
 nanyi 2
 natian 4
 naxie 3 1
-ne 5
+ne 6
 nei 15
 neibu 10
 neicun 3
@@ -1222,7 +1222,7 @@ tishikuang 2
 tixian 1
 tiyan 8
 tong 11 1 1
-tongbu 3
+tongbu 4
 tongchang 10
 tongcheng 1
 tongguo 44
@@ -1291,7 +1291,7 @@ wenjianjiang 1
 wenjianming 9
 wenti 38
 wenzi 2
-wo 13 1
+wo 14 1
 wocao 1
 wode 2
 wojuede 1
@@ -1554,7 +1554,7 @@ yuxian 9
 yuyan 5 5
 yuyin 2
 yuyue 1
-zai 88 22
+zai 89 22
 zaici 14 1
 zailai 1
 zaina 1
