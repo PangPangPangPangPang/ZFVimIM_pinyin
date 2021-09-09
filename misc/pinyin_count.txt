@@ -139,7 +139,7 @@ ce 7 1 1
 ceng 4
 cengjing 2
 ceshi 121
-cha 19 6 1
+cha 20 6 1 1
 chabuduo 5
 chai 3 2
 chaifen 3
@@ -302,7 +302,7 @@ disan 1
 disanfang 8
 diuqi 7
 diushi 2
-diyi 11
+diyi 12
 diyige 8
 dizeng 1
 dizhi 36
@@ -1272,7 +1272,7 @@ wanshan 1
 wanzheng 7
 wawenti 1
 wazi 1
-wei 146 22 5 1 1
+wei 147 22 5 1 1
 weichi 3
 weidaima 1
 weidu 2
@@ -1282,7 +1282,7 @@ weile 3
 weixin 12
 weiyi 4 3
 weiyu 1
-weizhi 14
+weizhi 15
 wen 4 1 1
 wenben 3
 wendang 11
@@ -1406,7 +1406,7 @@ xunhuan 11
 xuni 9
 xunzhao 1
 xuqiu 9
-xuyao 140
+xuyao 141
 ya 2
 yan 4 1
 yanchang 14
@@ -1557,7 +1557,7 @@ yuxian 9
 yuyan 5 5
 yuyin 2
 yuyue 1
-zai 89 22
+zai 91 22
 zaici 14 1
 zailai 1
 zaina 1
