@@ -669,7 +669,7 @@ jinyong 5
 jinzhi 10 3
 jishi 2 1
 jisuan 30
-jisuanji 4
+jisuanji 5
 jiu 21 7 5
 jiude 1
 jiushi 3
@@ -1151,6 +1151,7 @@ shuru 17
 shurufa 5
 shuxi 3
 shuxing 3
+shuxue 1
 shuzhi 2
 shuzhuang 2
 shuzi 6
