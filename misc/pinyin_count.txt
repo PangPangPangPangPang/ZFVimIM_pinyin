@@ -136,7 +136,7 @@ canzhao 4
 cao 1
 caozuo 16
 ce 7 1 1
-ceng 5
+ceng 7
 cengjing 2
 ceshi 121
 cha 20 6 1 1
@@ -191,6 +191,7 @@ chuangjian 10
 chuangkou 5
 chuangxin 4
 chuanru 1
+chuanshu 1
 chufa 1
 chufaqi 52
 chulai 1
@@ -1271,7 +1272,7 @@ wanbi 1
 wancheng 26
 wang 8
 wangguan 16
-wangluo 6
+wangluo 7
 wangye 1
 wangzhuang 1
 wanquan 8
