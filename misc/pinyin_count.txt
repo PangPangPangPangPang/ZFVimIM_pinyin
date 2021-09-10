@@ -432,7 +432,7 @@ gedan 1
 geduan 3
 gege 5
 gei 14
-gen 4
+gen 5 1
 geng 2
 gengduo 1
 genghao 7
@@ -667,7 +667,7 @@ jinyong 5
 jinzhi 10 3
 jishi 2 1
 jisuan 30
-jisuanji 1
+jisuanji 2
 jiu 21 7 5
 jiude 1
 jiushi 3
