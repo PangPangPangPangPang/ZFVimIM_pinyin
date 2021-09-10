@@ -1231,7 +1231,7 @@ tishikuang 2
 tixian 1
 tiyan 8
 tong 11 1 1 1
-tongbu 4
+tongbu 5
 tongchang 10
 tongcheng 1
 tongguo 44
@@ -1247,6 +1247,7 @@ tongyitao 1
 tongyong 9
 tongzhi 36
 tou 7
+toubu 1
 touchuan 13
 toufa 12
 touming 1
