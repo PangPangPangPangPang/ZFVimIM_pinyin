@@ -262,7 +262,7 @@ dayue 2
 dazi 1
 de 15 5
 dechu 1
-dedao 9
+dedao 10
 defen 1
 deng 32
 dengdai 6
@@ -1551,7 +1551,7 @@ yulan 6
 yule 1
 yuleping 4
 yuliu 4
-yuming 3
+yuming 4
 yun 51
 yunduan 9
 yunpan 2
