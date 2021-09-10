@@ -842,7 +842,7 @@ mianxiang 2
 miao 13
 mie 1
 mima 1
-ming 48 1 1
+ming 49 1 1
 mingbai 1
 mingci 1 1
 mingdan 1
@@ -850,6 +850,7 @@ mingliang 1
 mingling 6
 mingming 4
 mingque 2
+mingwen 1
 mingxian 3
 mingxing 4
 mingzi 3
