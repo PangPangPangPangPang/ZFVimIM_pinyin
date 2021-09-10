@@ -260,7 +260,7 @@ dayin 1
 dayu 1
 dayue 2
 dazi 1
-de 14 5
+de 15 5
 dechu 1
 dedao 9
 defen 1
@@ -1272,6 +1272,7 @@ wancheng 26
 wang 8
 wangguan 16
 wangluo 6
+wangye 1
 wangzhuang 1
 wanquan 8
 wanshan 1
@@ -1366,7 +1367,7 @@ xiedai 1
 xiemin 1
 xieminxie 1
 xiesi 1
-xieyi 35
+xieyi 36
 xiezi 1
 xifu 5
 xiha 5
@@ -1498,7 +1499,7 @@ yizu 3
 yo 3
 yong 59 1
 yongbu 1
-yongdao 1
+yongdao 2
 yongfa 4
 yonghu 72
 yongqi 1
