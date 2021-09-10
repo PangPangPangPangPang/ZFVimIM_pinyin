@@ -601,6 +601,7 @@ jiaodu 1
 jiaoduo 2
 jiaohu 11
 jiaojiu 1
+jiaotong 1
 jiaowei 3
 jiaoxiao 1
 jiaoyan 1
@@ -804,6 +805,7 @@ lunliu 1
 luo 1
 luoji 11
 luomo 12
+luxian 1
 luyin 1
 luzhi 3
 ma 6 1
@@ -1405,7 +1407,7 @@ xun 1
 xuncha 2
 xunhuan 12
 xuni 9
-xunzhao 1
+xunzhao 2
 xuqiu 9
 xuyao 141
 ya 2
@@ -1711,7 +1713,7 @@ zuijia 13
 zuijian 1
 zuijin 2
 zuixin 1
-zuiyou 7
+zuiyou 8
 zuizhong 5
 zujian 1
 zuo 12 4
