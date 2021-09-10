@@ -676,7 +676,7 @@ jiushi 3
 jixu 3
 jiyi 2
 jiyidian 1
-jiyu 2 1
+jiyu 3 2
 jizhang 1
 jizhi 2
 jizhong 1 1 1
@@ -1101,7 +1101,7 @@ shengxiao 4
 shengyin 2
 shengyu 5
 shenhe 1
-shenme 2
+shenme 3
 shenti 7
 shezhi 35
 shi 180 41 2 2 1
@@ -1367,7 +1367,7 @@ xiedai 1
 xiemin 1
 xieminxie 1
 xiesi 1
-xieyi 36
+xieyi 37
 xiezi 1
 xifu 5
 xiha 5
