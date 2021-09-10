@@ -335,7 +335,7 @@ duiyu 24
 duizhang 3
 duli 3
 dun 4
-duo 11
+duo 14
 duoci 5
 duoge 24
 duojiu 2
@@ -435,7 +435,7 @@ gedan 1
 geduan 3
 gege 5
 gei 14
-gen 7 2
+gen 8 3
 geng 2
 gengduo 1
 genghao 7
@@ -650,7 +650,7 @@ jilu 24
 jimiao 2
 jin 26 2 1 1 1
 jinbu 2
-jincheng 3
+jincheng 4
 jindang 1
 jindu 9
 jing 2 1 1 1
@@ -1010,7 +1010,7 @@ quanliang 1
 quanping 3
 quanxian 1
 quanzhen 1
-qubie 2
+qubie 3
 quchu 5
 qudao 3
 que 3 2
@@ -1332,7 +1332,7 @@ xialai 1
 xiamen 1
 xian 27 1 1 1
 xianchang 1
-xiancheng 1
+xiancheng 2
 xiang 7 5 2 1 1
 xiangdui 14
 xiangduiying 1
