@@ -92,7 +92,7 @@ budao 2
 budayu 1
 buduan 1
 budui 1
-buduo 10
+buduo 11
 bufen 10
 bugou 1
 buguo 6
@@ -166,7 +166,7 @@ chayi 1
 chazhao 10
 che 1
 chen 1
-cheng 4 1 1
+cheng 5 1 1
 chengben 1
 chengdu 1
 chenggong 40
@@ -262,7 +262,7 @@ dayin 1
 dayu 1
 dayue 2
 dazi 1
-de 17 5
+de 19 5
 dechu 1
 dedao 10
 defen 1
@@ -292,7 +292,7 @@ diaoyongzhe 1
 dibu 1
 diedai 2
 digui 1
-ding 9 1
+ding 10 1
 dingbu 2
 dingdan 5
 dingqi 2
@@ -672,7 +672,7 @@ jinyong 5
 jinzhi 10 3
 jishi 2 1
 jisuan 30
-jisuanji 5
+jisuanji 6
 jiu 21 7 5
 jiude 1
 jiushi 3
@@ -707,11 +707,13 @@ kan 11
 kang 1
 kankan 1
 kao 1 1
+kaocha 1
 kaojin 1
 kaolv 23
 kaosheng 2
 kaoshi 3
 ke 32 10
+kecheng 1
 kedu 2
 keduxing 1
 ken 2
@@ -774,7 +776,7 @@ liantiao 1
 lianwang 5
 lianxian 1
 lianxu 1
-liaojie 1
+liaojie 2
 lie 11
 liebiao 56
 lieju 1
@@ -893,7 +895,7 @@ neirong 36
 neiwang 11
 neizhi 2
 nen 1
-neng 20
+neng 21
 nengfou 6
 nenggou 8
 nengliangtiao 4
@@ -1410,7 +1412,7 @@ xuanxiang 3
 xuanxiu 3
 xuanze 13
 xuanzhuan 2
-xue 1
+xue 2
 xuehui 1
 xuesheng 1
 xuexi 1
@@ -1452,7 +1454,7 @@ yichang 8 2 2
 yichu 2
 yici 16
 yidian 7 4
-yiding 4
+yiding 5
 yidong 7 3
 yiduan 2
 yifen 2
@@ -1488,7 +1490,7 @@ yinru 1
 yinshi 3
 yinsi 1
 yinsu 2
-yinwei 2
+yinwei 3
 yinxiao 2
 yinyue 1
 yiran 4
@@ -1534,7 +1536,7 @@ youxiao 1
 youxie 1
 youxiu 1
 youxu 1
-youyi 2
+youyi 3
 youyiyi 2
 youyu 19
 yu 45 1 1
