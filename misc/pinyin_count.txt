@@ -1076,10 +1076,11 @@ shangci 5
 shangdilei 1
 shangji 2
 shangjia 42 3
+shangke 2
 shangshu 4
 shangwang 4
 shangwei 2
-shangwu 1
+shangwu 2 1
 shangxia 1
 shangxian 2
 shangyi 10
@@ -1361,7 +1362,7 @@ xiaoxi 28
 xiaoyi 7
 xiaozu 5
 xiawen 4
-xiawu 2
+xiawu 3
 xiawucha 1
 xiayi 9
 xiayige 6
@@ -1412,6 +1413,7 @@ xuanzhuan 2
 xue 1
 xuehui 1
 xuesheng 1
+xuexi 1
 xulie 6
 xuliezhen 1
 xun 1
@@ -1702,6 +1704,7 @@ zixun 6
 ziyan 3
 ziyou 1
 ziyuan 160
+zizhu 1
 zong 13
 zonggong 1
 zongjie 1
