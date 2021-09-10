@@ -222,7 +222,7 @@ cunzai 18
 cuowu 16
 cuowuma 7
 d 665
-da 14 11 1 1
+da 15 11 1 1
 dabao 22
 dabian 1
 daduo 2
@@ -1051,7 +1051,7 @@ rukou 7
 ruo 4
 ruxia 6
 saima 2
-san 2
+san 3
 sange 1
 sanzhong 1
 saoma 1
