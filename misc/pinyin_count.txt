@@ -612,7 +612,7 @@ jiayou 1
 jiazai 59
 jiazhi 5
 jiben 8
-jichu 3
+jichu 4
 jide 1
 jiding 11
 jidinghe 76
@@ -669,7 +669,7 @@ jinyong 5
 jinzhi 10 3
 jishi 2 1
 jisuan 30
-jisuanji 2
+jisuanji 4
 jiu 21 7 5
 jiude 1
 jiushi 3
@@ -1269,7 +1269,7 @@ wanbi 1
 wancheng 26
 wang 8
 wangguan 16
-wangluo 5
+wangluo 6
 wangzhuang 1
 wanquan 8
 wanshan 1
