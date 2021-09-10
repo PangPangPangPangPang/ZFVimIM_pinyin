@@ -166,12 +166,13 @@ chayi 1
 chazhao 10
 che 1
 chen 1
-cheng 4 1
+cheng 4 1 1
 chengben 1
 chengdu 1
 chenggong 40
 chengjidan 6
-chengxu 5
+chengshi 1
+chengxu 6
 chengyuan 4
 chi 3 1 1
 chibang 2
@@ -1329,8 +1330,9 @@ xiaci 1
 xiafang 6
 xialai 1
 xiamen 1
-xian 27 1 1
+xian 27 1 1 1
 xianchang 1
+xiancheng 1
 xiang 7 5 2 1 1
 xiangdui 14
 xiangduiying 1
@@ -1643,7 +1645,7 @@ zhisheng 1
 zhishi 2 1
 zhixia 1
 zhixiang 1
-zhixing 8
+zhixing 9
 zhixu 2
 zhiyao 8
 zhiyi 1
