@@ -852,7 +852,7 @@ mo 11
 mofa 4
 mohu 2
 mokuai 12
-moni 5
+moni 6
 moqi 5
 moren 34
 morenzhi 1
