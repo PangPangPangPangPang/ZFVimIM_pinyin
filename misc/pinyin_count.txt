@@ -434,7 +434,7 @@ gedan 1
 geduan 3
 gege 5
 gei 14
-gen 6 1
+gen 7 2
 geng 2
 gengduo 1
 genghao 7
