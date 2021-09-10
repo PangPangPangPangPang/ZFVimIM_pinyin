@@ -109,7 +109,7 @@ bushu 6
 butian 8
 butong 20
 buwei 2 1
-buxuyao 6
+buxuyao 7
 buyao 12
 buyi 1
 buyiding 3
@@ -1118,7 +1118,7 @@ shijishang 1
 shike 4
 shili 14 1
 shipei 3
-shipin 76
+shipin 77
 shishi 3
 shiti 2
 shiwei 7
@@ -1471,7 +1471,7 @@ yingxiao 1
 yingyong 6
 yinhao 1
 yinliang 7
-yinpin 21
+yinpin 22
 yinqi 2 1
 yinqing 11
 yinru 1
