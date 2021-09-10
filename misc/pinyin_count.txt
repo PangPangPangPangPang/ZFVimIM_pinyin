@@ -67,7 +67,7 @@ biding 1
 bie 12
 bieren 1
 biewen 1
-bijiao 8
+bijiao 9
 bimian 14
 bin 1
 bing 43
@@ -242,7 +242,7 @@ dangqian 70
 dangran 1
 danli 1
 danmu 2
-danshi 7
+danshi 8
 danteng 1
 danwei 9
 danxiang 2 1
@@ -262,7 +262,7 @@ dayin 1
 dayu 1
 dayue 2
 dazi 1
-de 22 5
+de 23 5
 dechu 1
 dedao 10
 defen 1
@@ -424,7 +424,7 @@ gang 3 2
 gangti 4
 ganjue 5
 ganxie 1
-gao 9
+gao 10
 gaochao 2
 gaofen 1
 gaoliang 2
@@ -1621,6 +1621,7 @@ zhengju 1
 zhengming 1
 zhengque 1
 zhengshi 5
+zhengti 1
 zhengyi 1
 zhengzai 4
 zhengze 1
