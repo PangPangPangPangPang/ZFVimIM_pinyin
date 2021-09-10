@@ -134,7 +134,7 @@ canshu 45
 canyu 1
 canzhao 4
 cao 1
-caozuo 16
+caozuo 17
 ce 7 1 1
 ceng 9
 cengjing 2
@@ -262,7 +262,7 @@ dayin 1
 dayu 1
 dayue 2
 dazi 1
-de 20 5
+de 21 5
 dechu 1
 dedao 10
 defen 1
@@ -496,7 +496,7 @@ h 26
 hai 11 1
 haibu 3
 haihui 1
-haimei 1
+haimei 2
 haishi 11
 haixing 3
 haiyao 1
@@ -782,7 +782,7 @@ lie 11
 liebiao 56
 lieju 1
 liji 2
-lijie 1
+lijie 2
 likai 1
 like 3
 limao 2
@@ -1400,7 +1400,7 @@ xinxi 32
 xinzai 1
 xinzaixinzeng 1
 xinzeng 26
-xitong 11
+xitong 12
 xiu 31
 xiufu 11
 xiugai 39
@@ -1416,7 +1416,7 @@ xuanzhuan 2
 xue 2
 xuehui 1
 xuesheng 1
-xuexi 1
+xuexi 2
 xulie 6
 xuliezhen 1
 xun 1
@@ -1517,7 +1517,7 @@ yonghu 72
 yongqi 1
 yongtu 1
 yongyu 37
-you 87 13 4 2 1 1
+you 88 13 4 2 1 1
 youdai 1
 youdian 1
 youge 2
