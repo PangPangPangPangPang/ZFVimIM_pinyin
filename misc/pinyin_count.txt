@@ -262,7 +262,7 @@ dayin 1
 dayu 1
 dayue 2
 dazi 1
-de 21 5
+de 22 5
 dechu 1
 dedao 10
 defen 1
@@ -614,7 +614,7 @@ jiaru 16 2
 jiayou 1
 jiazai 59
 jiazhi 5
-jiben 8
+jiben 9
 jichu 4
 jide 1
 jiding 11
@@ -899,6 +899,7 @@ nen 1
 neng 21
 nengfou 6
 nenggou 8
+nengli 1
 nengliangtiao 4
 ng 3
 ni 16 1
@@ -1174,7 +1175,7 @@ sm 2
 song 1
 sou 3
 sousuo 2
-suanfa 9
+suanfa 10
 sudu 4
 suiji 8
 suiran 8
@@ -1517,7 +1518,7 @@ yonghu 72
 yongqi 1
 yongtu 1
 yongyu 37
-you 88 13 4 2 1 1
+you 89 13 4 2 1 1
 youdai 1
 youdian 1
 youge 2
