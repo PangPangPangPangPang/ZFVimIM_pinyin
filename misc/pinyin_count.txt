@@ -262,7 +262,7 @@ dayin 1
 dayu 1
 dayue 2
 dazi 1
-de 16 5
+de 17 5
 dechu 1
 dedao 10
 defen 1
@@ -650,7 +650,7 @@ jilu 24
 jimiao 2
 jin 26 2 1 1 1
 jinbu 2
-jincheng 2
+jincheng 3
 jindang 1
 jindu 9
 jing 2 1 1 1
@@ -1036,7 +1036,7 @@ ren 25 1 1
 reng 3
 renhe 3
 renwei 2
-renwu 37 20
+renwu 38 20
 renyi 7
 renyu 1
 renyuan 21
@@ -1124,7 +1124,7 @@ shili 14 1
 shipei 3
 shipin 77
 shishi 3
-shiti 2
+shiti 3
 shiwei 7
 shixian 24
 shixiao 5
@@ -1273,7 +1273,7 @@ waibu 8
 waiwang 15
 wan 6
 wanbi 1
-wancheng 26
+wancheng 27
 wang 8
 wangguan 16
 wangluo 7
