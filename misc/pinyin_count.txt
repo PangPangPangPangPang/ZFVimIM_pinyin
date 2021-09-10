@@ -433,7 +433,7 @@ gedan 1
 geduan 3
 gege 5
 gei 14
-gen 5 1
+gen 6 1
 geng 2
 gengduo 1
 genghao 7
@@ -722,7 +722,7 @@ keyong 4
 kong 41 1
 kongge 4
 kongjian 4 1
-kongzhi 21
+kongzhi 22
 kou 1
 ku 7
 kua 1
@@ -1228,7 +1228,7 @@ tishi 19
 tishikuang 2
 tixian 1
 tiyan 8
-tong 11 1 1
+tong 11 1 1 1
 tongbu 4
 tongchang 10
 tongcheng 1
