@@ -67,7 +67,7 @@ biding 1
 bie 12
 bieren 1
 biewen 1
-bijiao 7
+bijiao 8
 bimian 14
 bin 1
 bing 43
@@ -224,7 +224,7 @@ cunzai 18
 cuowu 16
 cuowuma 7
 d 665
-da 15 11 1 1
+da 16 11 1 1
 dabao 22
 dabian 1
 daduo 2
@@ -232,7 +232,7 @@ dai 17 8 1
 daijia 1
 daikuan 1
 dailai 1
-daima 32
+daima 33
 dajia 1
 dakai 14
 dan 36 4
@@ -732,7 +732,7 @@ kongzhi 22
 kou 1
 ku 7
 kua 1
-kuai 2
+kuai 3
 kuaijie 2
 kuaisu 6
 kuang 9
@@ -815,7 +815,7 @@ luomo 12
 luxian 1
 luyin 1
 luzhi 3
-ma 6 1
+ma 7 1
 maidian 1
 maike 1
 maikefeng 1
@@ -899,7 +899,7 @@ nen 1
 neng 21
 nengfou 6
 nenggou 8
-nengli 1
+nengli 2
 nengliangtiao 4
 ng 3
 ni 16 1
@@ -1170,7 +1170,7 @@ si 4 1
 sihu 1
 siji 1
 sikao 1
-silu 6
+silu 7
 sm 2
 song 1
 sou 3
