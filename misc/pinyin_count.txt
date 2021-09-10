@@ -262,7 +262,7 @@ dayin 1
 dayu 1
 dayue 2
 dazi 1
-de 19 5
+de 20 5
 dechu 1
 dedao 10
 defen 1
@@ -485,7 +485,7 @@ guifan 3
 guiyi 1
 guize 16
 gun 1
-guo 21
+guo 23
 guochang 2
 guocheng 11
 guodu 2
@@ -620,6 +620,7 @@ jide 1
 jiding 11
 jidinghe 76
 jie 11 1
+jiechu 1
 jiedian 13
 jiegou 16
 jieguo 6
@@ -835,7 +836,7 @@ meigui 2
 meiren 1
 meiti 1
 meitian 1
-meiyou 61
+meiyou 62
 meizhong 1
 meizhou 2
 mi 36 2
@@ -1117,7 +1118,7 @@ shichang 8
 shifou 72
 shih 8
 shihou 3
-shiji 10
+shiji 11
 shijian 64 42
 shijianchuo 3
 shijiao 1
@@ -1646,7 +1647,7 @@ zhineng 10
 zhiqian 11
 zhishao 1
 zhisheng 1
-zhishi 2 1
+zhishi 3 1
 zhixia 1
 zhixiang 1
 zhixing 9
