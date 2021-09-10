@@ -136,7 +136,7 @@ canzhao 4
 cao 1
 caozuo 16
 ce 7 1 1
-ceng 7
+ceng 8
 cengjing 2
 ceshi 121
 cha 20 6 1 1
@@ -1470,7 +1470,7 @@ yingshe 3
 yingwen 2
 yingxiang 11
 yingxiao 1
-yingyong 6
+yingyong 7
 yinhao 1
 yinliang 7
 yinpin 22
@@ -1565,7 +1565,7 @@ yuxian 9
 yuyan 5 5
 yuyin 2
 yuyue 1
-zai 91 22
+zai 92 22
 zaici 14 1
 zailai 1
 zaina 1
