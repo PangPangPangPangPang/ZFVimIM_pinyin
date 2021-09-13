@@ -653,7 +653,7 @@ jilu 24
 jimiao 2
 jin 26 2 1 1 1
 jinbu 2
-jincheng 10
+jincheng 11
 jindang 1
 jindu 9
 jing 2 1 1 1
@@ -995,7 +995,7 @@ qingkong 3
 qingkuang 17
 qingli 2
 qingliang 1
-qingqiu 26
+qingqiu 27
 qingwu 1
 qingxi 3
 qinru 1
