@@ -67,7 +67,7 @@ biding 1
 bie 12
 bieren 1
 biewen 1
-bijiao 10
+bijiao 11
 bimian 14
 bin 1
 bing 43
@@ -262,7 +262,7 @@ dayin 1
 dayu 1
 dayue 2
 dazi 1
-de 24 5
+de 25 5
 dechu 1
 dedao 10
 defen 1
@@ -856,7 +856,7 @@ mingling 6
 mingming 4
 mingque 2
 mingwen 1
-mingxian 3
+mingxian 4
 mingxing 4
 mingzi 3
 mo 11
@@ -1072,7 +1072,7 @@ se 1
 seng 1
 sha 3
 shan 3 1
-shanchu 25
+shanchu 26
 shang 36
 shangbanshen 1
 shangbao 17
@@ -1119,7 +1119,7 @@ shibai 24
 shichang 8
 shifou 72
 shih 8
-shihou 3
+shihou 4
 shiji 11
 shijian 64 42
 shijianchuo 3
@@ -1474,7 +1474,7 @@ yin 64 3 2
 yincang 10
 yinci 10
 yindao 2
-ying 2 2 1
+ying 3 2 1
 yinggai 6
 yingguangbang 1
 yinghe 1
