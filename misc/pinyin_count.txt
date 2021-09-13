@@ -308,7 +308,7 @@ diushi 2
 diyi 12
 diyige 8
 dizeng 1
-dizhi 36
+dizhi 37
 dizi 1
 dong 4 3
 dongbu 1
@@ -755,7 +755,7 @@ lang 2
 lanse 1
 lao 1
 laoshi 4
-le 4
+le 5 1
 lei 5 1
 leiji 1
 leisi 3
@@ -891,7 +891,7 @@ naxie 3 1
 ne 7
 nei 15
 neibu 10
-neicun 3
+neicun 4
 neirong 36
 neiwang 11
 neizhi 2
@@ -1054,7 +1054,7 @@ rongyi 5
 rou 1
 rouhe 2
 ru 20 4
-ruan 1
+ruan 2
 ruanjian 4
 ruci 1
 ruguo 48
@@ -1224,7 +1224,7 @@ tice 1
 tidai 7
 tidaipin 7
 tietu 2
-tigong 17
+tigong 18
 tihuan 10
 tijiao 4
 tili 1
