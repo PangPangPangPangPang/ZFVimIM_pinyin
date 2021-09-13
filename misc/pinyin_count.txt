@@ -144,7 +144,7 @@ chabuduo 5
 chai 3 2
 chaifen 3
 chaixie 1
-chajian 30
+chajian 31
 chakan 3
 chanchu 2
 chang 9 8 5 1
@@ -653,7 +653,7 @@ jilu 24
 jimiao 2
 jin 26 2 1 1 1
 jinbu 2
-jincheng 6
+jincheng 10
 jindang 1
 jindu 9
 jing 2 1 1 1
@@ -797,6 +797,7 @@ liru 66
 lishi 7
 liu 6 2 1
 liucheng 11
+liulanqi 1
 liuliang 2
 lixian 8
 lixiang 1
