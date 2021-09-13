@@ -337,7 +337,7 @@ duiyu 24
 duizhang 3
 duli 3
 dun 4
-duo 14
+duo 15
 duoci 5
 duoge 24
 duojiu 2
@@ -653,7 +653,7 @@ jilu 24
 jimiao 2
 jin 26 2 1 1 1
 jinbu 2
-jincheng 5
+jincheng 6
 jindang 1
 jindu 9
 jing 2 1 1 1
