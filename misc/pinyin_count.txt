@@ -263,7 +263,7 @@ dayin 1
 dayu 1
 dayue 2
 dazi 1
-de 27 5
+de 28 5
 dechu 1
 dedao 10
 defen 1
@@ -891,7 +891,7 @@ nandu 1
 nanyi 2
 natian 4
 naxie 3 1
-ne 7
+ne 8
 nei 15
 neibu 10
 neicun 5
@@ -911,6 +911,7 @@ nie 1
 nielian 2
 nihao 1
 nin 3
+nishuo 1
 niu 2
 nixu 1
 nizhong 1
@@ -1114,10 +1115,10 @@ shengxiao 4
 shengyin 2
 shengyu 5
 shenhe 1
-shenme 3
+shenme 4
 shenti 7
 shezhi 35
-shi 181 42 2 2 1
+shi 182 42 2 2 1
 shibai 24
 shichang 8
 shifou 72
@@ -1504,6 +1505,7 @@ yishang 5
 yishi 1 1
 yishigan 3
 yishou 6
+yisi 1
 yitian 3
 yiwei 1
 yixia 51 12
